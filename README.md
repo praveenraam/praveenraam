@@ -8,8 +8,6 @@ Hello there! 👋 I'm Praveen Raam, a dynamic and driven web developer with a pa
 
 - 🔹 React.js Aficionado: I'm currently upskilling my proficiency in React.js, a cutting-edge library for building user interfaces. I believe in creating responsive, intuitive, and delightful web applications.
 
-- 🔹 Express.js Enthusiast: Alongside my frontend expertise, I'm diving deep into the backend world with Express.js, enabling me to build robust and scalable server applications.
-
 ## 🚀My Mission🚀
 
 I am fueled by the desire to constantly learn and evolve in the ever-evolving field of web development. My goal is to blend my academic knowledge with real-world experience to bring innovative ideas to life. I thrive in collaborative environments where creativity knows no bounds.
