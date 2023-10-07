@@ -22,3 +22,4 @@ I'm currently pursuing my B. Tech in Information Technology at Bannari Amman Ins
 
 I'm always eager to connect with fellow developers, mentors, and tech enthusiasts. Whether you have an exciting project idea, want to discuss the latest tech trends, or simply want to connect, feel free to reach out to me. Let's collaborate and build something amazing together!
 
+<img src="./svg/instagram.svg" alt="Instagram Icon" width="48" height="48"> 
