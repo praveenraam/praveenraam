@@ -4,10 +4,10 @@ Hello there! 👋 I'm Praveen Raam, a dynamic and driven web developer with a pa
 
 ## 🌐 My Expertise 🌐
 
-- 🔹 JavaScript Enthusiast: I have hands-on experience with JavaScript and have successfully delivered project an online form generating website that is used during student's academic journey.
+ 🔹 JavaScript Enthusiast: I have hands-on experience with JavaScript and have successfully delivered projects, including an online form generating website used during students' academic journeys.
 
-- 🔹 React.js Aficionado: I'm currently upskilling my proficiency in React.js, a cutting-edge library for building user interfaces. I believe in creating responsive, intuitive, and delightful web applications.
-
+ 🔹 Laravel Developer: Proficient in Laravel, a PHP framework known for its elegant syntax and developer-friendly features. I've leveraged Laravel to build dynamic and scalable web applications, demonstrating a strong command of server-side development.
+ 
 ## 🚀My Mission🚀
 
 I am fueled by the desire to constantly learn and evolve in the ever-evolving field of web development. My goal is to blend my academic knowledge with real-world experience to bring innovative ideas to life. I thrive in collaborative environments where creativity knows no bounds.
