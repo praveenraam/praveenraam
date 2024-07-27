@@ -1,23 +1,50 @@
-# 👨‍💻 Web Developer | 📚 College Student | 🚀 Passionate About Building Digital Experiences
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=praveenraam.praveenraam" alt="visitor badge"/>
+<br>
+<h1 align="left" style="margin-top: 30px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=true&width=435&lines=Heyy!!+I'm+praveenraam&color=8892BF" alt="nameIntro" />
+</h1>
 
-Hello there! 👋 I'm Praveen Raam, a dynamic and driven web developer with a passion for crafting engaging digital experiences. Currently enrolled as a college student, I'm on a mission to leverage my technical skills and creativity to make a meaningful impact in the world of web development.
+<h3 align="left"><strong>Student & Web Developer from India</strong></h3>
+<div align="left">
+  <p>🎓 Enrolled in B.Tech Information Technology at Bannari Amman Institute of Technology</p>
+  <p>🚀 Currently working on an Alumni Network project using Laravel</p>
+  <p>🌟 Diving into Laravel and React Native</p>
+  <p>🧠 Passionate about Data Structures & Algorithms in Java</p>
+  <p>📚 Expanding my knowledge by learning Operating Systems</p>
+  <p>📧 Reach out to me at: <a href="mailto:ckpraveenraam@gmail.com">ckpraveenraam@gmail.com</a></p>
+</div>
 
-## 🌐 My Expertise 🌐
+<hr>
 
- 🔹 JavaScript Enthusiast: I have hands-on experience with JavaScript and have successfully delivered projects, including an online form generating website used during students' academic journeys.
+<h3 align="left"><strong>Languages & Frameworks & Tools</strong></h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=java,c,php,js,laravel,mysql,figma,vscode,postman	,git,linux,leetcode&theme=light" />
+</p>
 
- 🔹 Laravel Developer: Proficient in Laravel, a PHP framework known for its elegant syntax and developer-friendly features. I've leveraged Laravel to build dynamic and scalable web applications, demonstrating a strong command of server-side development.
- 
-## 🚀My Mission🚀
+<hr>
+<h3 align="left"><strong>Github and Leetcode Stats </strong> </h3>
 
-I am fueled by the desire to constantly learn and evolve in the ever-evolving field of web development. My goal is to blend my academic knowledge with real-world experience to bring innovative ideas to life. I thrive in collaborative environments where creativity knows no bounds.
+<!--START_SECTION:waka-->
 
-## 📚 Education 📚
+<!--END_SECTION:waka-->
+<div align="left" style="padding: 20px;">
 
-I'm currently pursuing my B. Tech in Information Technology at Bannari Amman Institute Of Technology, where I'm not only gaining academic knowledge but also actively applying it to real projects.
+<!--START_SECTION:waka-->
 
-## 🌟 Let's Connect! 🌟
+<!--END_SECTION:waka-->
 
-I'm always eager to connect with fellow developers, mentors, and tech enthusiasts. Whether you have an exciting project idea, want to discuss the latest tech trends, or simply want to connect, feel free to reach out to me. Let's collaborate and build something amazing together!
+<img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /><br><br>
+<a><img src="https://leetcard.jacoblin.cool/praveenraam" alt="leetcode stats"></a>
 
-[Linked IN](https://www.linkedin.com/in/praveenraam)
+</div>
+
+<h3>Reach me<h3>
+<div align="left" style="padding: 20px;">
+
+<a href="mailto:ckpraveenraam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light"></a>&nbsp;
+<a href="https://www.linkedin.com/in/praveenraam/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/praveenraam"><img src="https://skillicons.dev/icons?i=github&theme=light"></a>&nbsp;
+<a href="https://www.instagram.com/praveen.raam_/"><img src="https://skillicons.dev/icons?i=instagram&theme=light"></a>&nbsp;
+
+
+</div>
