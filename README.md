@@ -3,7 +3,6 @@
 <h1 align="left" style="margin-top: 30px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=true&width=435&lines=Heyy!!+I'm+praveenraam&color=8892BF" alt="nameIntro" />
 </h1>
-
 <h3 align="left"><strong>Student & Web Developer from India</strong></h3>
 <div align="left">
   <p>🎓 Enrolled in B.Tech Information Technology at Bannari Amman Institute of Technology</p>
@@ -18,26 +17,23 @@
 
 <h3 align="left"><strong>Languages & Frameworks & Tools</strong></h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,c,php,js,laravel,mysql,figma,vscode,postman	,git,linux,leetcode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,c,php,js,laravel,mysql,figma,vscode,postman,git,linux,leetcode&theme=light" />
 </p>
 
 <hr>
 <h3 align="left"><strong>Github and Leetcode Stats </strong> </h3>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 <div align="left" style="padding: 20px;">
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /><br><br>
-<a><img src="https://leetcard.jacoblin.cool/praveenraam" alt="leetcode stats"></a>
+<a href="https://github.com/praveenraam"><img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /></a><br><br>
+<a href="https://leetcode.com/u/praveenraam/"><img src="https://leetcard.jacoblin.cool/praveenraam" alt="leetcode stats"></a>
 
 </div>
-
+<hr>
 <h3>Reach me<h3>
 <div align="left" style="padding: 20px;">
 
