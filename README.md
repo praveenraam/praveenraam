@@ -27,6 +27,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+TypeScript       4 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.63 %
+PHP              4 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.50 %
+Blade Template   2 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Markdown         1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+YAML             52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/praveenraam"><img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /></a><br><br>
