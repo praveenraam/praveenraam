@@ -15,13 +15,17 @@
 
 <hr>
 
-<h3 align="left"><strong>Languages & Frameworks & Tools</strong></h3>
+<h3 align="left"><strong>Languages & Frameworks</strong></h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,c,php,js,laravel,mysql,figma,vscode,postman,git,linux,leetcode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,c,js,react,laravel,mysql" />
 </p>
+<h3><strong>Tools</strong></h3>
+  <img src="https://skillicons.dev/icons?i=github,git,figma,vscode,postman" />
+<p>
+
 
 <hr>
-<h3 align="left"><strong>Github and Leetcode Stats </strong> </h3>
+<h3 align="left"><strong>My Activities</strong> </h3>
 
 <div align="left" style="padding: 20px;">
 
@@ -38,9 +42,10 @@
 <div align="left" style="padding: 20px;">
 
 <a href="mailto:ckpraveenraam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light"></a>&nbsp;
-<a href="https://www.linkedin.com/in/praveenraam/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" /></a>&nbsp;
 <a href="https://github.com/praveenraam"><img src="https://skillicons.dev/icons?i=github&theme=light"></a>&nbsp;
-<a href="https://www.instagram.com/praveen.raam_/"><img src="https://skillicons.dev/icons?i=instagram&theme=light"></a>&nbsp;
+<a href="https://www.linkedin.com/in/praveenraam/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" /></a>&nbsp;
+
+<!-- <a href="https://www.instagram.com/praveen.raam_/"><img src="https://skillicons.dev/icons?i=instagram&theme=light"></a>&nbsp; -->
 
 
 </div>
