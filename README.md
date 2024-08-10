@@ -27,7 +27,9 @@
 
   <hr>
   <h3 align="center"><strong>My Activities</strong> </h3>
-<div align="center">
+
+  <div align="center" style="padding: 20px;">
+
   <!--START_SECTION:waka-->
 
   ```txt
@@ -37,18 +39,11 @@
   TypeScript        4 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
   Blade Template    4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
   ```
-  
-  <!--END_SECTION:waka-->
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/praveenraam">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </a>
-    <a href="https://leetcode.com/u/praveenraam/" style="margin-left: 20px;">
-      <img src="https://leetcard.jacoblin.cool/praveenraam" alt="leetcode stats" />
-    </a>
-  </div>
-</div>
+<!--END_SECTION:waka-->
+<a href="https://github.com/praveenraam"><img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /></a><br><br>
+<a href="https://leetcode.com/u/praveenraam/"><img src="https://leetcard.jacoblin.cool/praveenraam" alt="leetcode stats"></a>
 
+  </div>
   <hr>
   <h3 align="center"><strong>Reach me</strong></h3>
   <div align="center" style="padding: 20px;">
