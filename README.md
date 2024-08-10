@@ -31,6 +31,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+Java              15 hrs          ██████████░░░░░░░░░░░░░░░   39.42 %
+PHP               7 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+Other             4 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+TypeScript        4 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+Blade Template    4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/praveenraam"><img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /></a><br><br>
