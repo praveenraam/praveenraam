@@ -31,21 +31,21 @@
   <div align="center" style="padding: 20px;">
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2010%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     15 hrs 15 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.21 % 
-PHP                      6 hrs 16 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.75 % 
-Blade Template           4 hrs 23 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.45 % 
-Other                    3 hrs 57 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.20 % 
-TypeScript               3 hrs 21 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.50 % 
+Java                     14 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.96 % 
+PHP                      5 hrs 44 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.34 % 
+Blade Template           5 hrs 29 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.61 % 
+Other                    4 hrs 6 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.69 % 
+TypeScript               3 hrs 37 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.32 % 
 ```
 
 
- Last Updated on 13/08/2024 18:38:51 UTC
+ Last Updated on 14/08/2024 18:37:58 UTC
 <!--END_SECTION:waka-->
 <a href="https://github.com/praveenraam"><img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /></a><br><br>
 <a href="https://leetcode.com/u/praveenraam/"><img src="https://leetcard.jacoblin.cool/praveenraam" alt="leetcode stats"></a>
