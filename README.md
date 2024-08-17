@@ -31,7 +31,7 @@
   <div align="center" style="padding: 20px;">
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,7 +45,7 @@ Other                    2 hrs 43 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 17/08/2024 18:22:17 UTC
+ Last Updated on 17/08/2024 18:36:10 UTC
 <!--END_SECTION:waka-->
 <a href="https://github.com/praveenraam"><img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /></a><br><br>
 <a href="https://leetcode.com/u/praveenraam/"><img src="https://leetcard.jacoblin.cool/praveenraam" alt="leetcode stats"></a>
