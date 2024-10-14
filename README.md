@@ -26,14 +26,14 @@
     </p>
 
   <hr>
-  <h3 align="center"><strong>My Activities</strong> </h3>
+<!--   <h3 align="center"><strong>My Activities</strong> </h3> -->
 
-  <div align="center" style="padding: 20px;">
+ <!-- <div align="center" style="padding: 20px;"> -->
 
-  <img
+<!--  <img
     src="https://github.com/praveenraam/praveenraam/blob/main/images/stat.svg"
     alt="PraveenRaam's Stats"
-  />
+  /> -->
 <a href="https://github.com/praveenraam"><img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /></a><br><br>
 <a href="https://leetcode.com/u/praveenraam/"><img src="https://leetcard.jacoblin.cool/praveenraam" alt="leetcode stats"></a>
 
