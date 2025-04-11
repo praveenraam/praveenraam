@@ -7,10 +7,9 @@
   <h3 align="center"><strong>Student & Web Developer from India</strong></h3>
   <div align="center">
     <p>🎓 Enrolled in B.Tech Information Technology at Bannari Amman Institute of Technology</p>
-    <p>🚀 Currently working on an Alumni Network project using Laravel</p>
-    <p>🌟 Diving into Laravel and React Native</p>
+    <p>🚀 Currently working on an Hostel Room Allocation Application using SpringBoot </p>
+    <p>🌟 Diving into Java and SpringBoot </p>
     <p>🧠 Passionate about Data Structures & Algorithms in Java</p>
-    <p>📚 Expanding my knowledge by learning Operating Systems</p>
     <p>📧 Reach out to me at: <a href="mailto:ckpraveenraam@gmail.com">ckpraveenraam@gmail.com</a></p>
   </div>
 
