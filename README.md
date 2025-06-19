@@ -7,7 +7,7 @@
   <h3 align="center"><strong>Student & Web Developer from India</strong></h3>
   <div align="center">
     <p>🎓 Enrolled in B.Tech Information Technology at Bannari Amman Institute of Technology</p>
-    <p>🚀 Currently working on an Hostel Room Allocation Application using SpringBoot </p>
+    <p>🚀 Currently working on an Drop message Applcation using SpringBoot and React</p>
     <p>🌟 Diving into Java and SpringBoot </p>
     <p>🧠 Passionate about Data Structures & Algorithms in Java</p>
     <p>📧 Reach out to me at: <a href="mailto:ckpraveenraam@gmail.com">ckpraveenraam@gmail.com</a></p>
@@ -17,7 +17,7 @@
 
   <h3 align="center"><strong>Languages & Frameworks</strong></h3>
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=java,c,js,react,laravel,mysql" />
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql,c,js,react,laravel" />
   </p>
   <h3 align="center"><strong>Tools</strong></h3>
     <p align="center">
